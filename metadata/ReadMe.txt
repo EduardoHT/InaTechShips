@@ -1,3 +1,3 @@
-The metadata are divided into 8 folders to facilitate operations with them. The folder 'meta1' contains the files related to images 0 to 499,999, 'meta2' from 500,000 to 999,999, and so on. The total number of metadata files across the 8 folders is 3,013,830, which matches the number of images in the dataset.
+The folder contains 10 examples of metadata. The total number of metadata files is divided into 8 folders to facilitate operations with them. The folder 'meta1' contains the files related to images 0 to 499,999, 'meta2' from 500,000 to 999,999, and so on. The total number of metadata files across the 8 folders is 3,013,830, which matches the number of images in the dataset.
 
 These metadata can be found at the following link: https://drive.google.com/drive/folders/1mg3mkskK8XElW9RdF-tAxJywffixmVDx?usp=sharing.
