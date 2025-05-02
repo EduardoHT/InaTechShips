@@ -16,3 +16,7 @@ Welcome to the InaTechShips repository! This repository provides detailed instru
 ### 3. Generated Files
 - **Dataset Labels**: Files containing the labels for the InaTechShips dataset images, essential for training new models.
 - **Training Results**: Detailed reports of the results obtained from the trained models, including metrics such as Accuracy, Precision, F1-Score, Recall, and Intersection Over Union.
+
+# (Paper) Fusion Strategy of Computer Vision and Machine Learning for Correlating Optical Coordinates and AIS Data in Maritime Monitoring
+
+This repository provides the resources associated with the paper Fusion Strategy of Computer Vision and Machine Learning for Correlating Optical Coordinates and AIS Data in Maritime Monitoring. All related assets, including the dataset, AIS data logs, and a demonstration video of the system in operation, are organized in the CVandAIS folder.
