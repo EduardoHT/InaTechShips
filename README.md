@@ -19,19 +19,16 @@ Welcome to the InaTechShips repository! This repository provides detailed instru
 
 - Cite InaTechShips .bib :
 
-@article{TEIXEIRA2025120823,
-title = {InaTechShips: A validation study of a novel ship dataset through deep learning-based classification and detection models for maritime applications},
-journal = {Ocean Engineering},
-volume = {326},
-pages = {120823},
-year = {2025},
-issn = {0029-8018},
-doi = {https://doi.org/10.1016/j.oceaneng.2025.120823},
-url = {https://www.sciencedirect.com/science/article/pii/S0029801825005372},
-author = {Eduardo H. Teixeira and Samuel B. Mafra and Felipe A.P. {De Figueiredo}},
-keywords = {Maritime surveillance, Dataset, Detection, Artificial intelligence, Convolutional neural networks}}
+- @article{TEIXEIRA2025120823,
+- title = {InaTechShips: A validation study of a novel ship dataset through deep learning-based classification and detection models for maritime applications},
+- journal = {Ocean Engineering},
+- volume = {326},
+- pages = {120823},
+- year = {2025},
+- issn = {0029-8018},
+- doi = {https://doi.org/10.1016/j.oceaneng.2025.120823},
+- url = {https://www.sciencedirect.com/science/article/pii/S0029801825005372},
+- author = {Eduardo H. Teixeira and Samuel B. Mafra and Felipe A.P. {De Figueiredo}},
+- keywords = {Maritime surveillance, Dataset, Detection, Artificial intelligence, Convolutional neural networks}}
 
 
-# (Paper) Fusion Strategy of Computer Vision and Machine Learning for Correlating Optical Coordinates and AIS Data in Maritime Monitoring
-
-This repository provides the resources associated with the paper Fusion Strategy of Computer Vision and Machine Learning for Correlating Optical Coordinates and AIS Data in Maritime Monitoring. All related assets, including the dataset, AIS data logs, and a demonstration video of the system in operation, are organized in the CVandAIS folder.
